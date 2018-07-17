@@ -1,0 +1,16 @@
+{
+  "name": "golang-api-nodejs",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+        "body-parser": "^1.17.1",
+        "chai": "^3.5.0",
+        "mocha": "^3.2.0",
+        "mocha-jenkins-reporter": "^0.3.7",
+        "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
